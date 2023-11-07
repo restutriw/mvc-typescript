@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgb9wIIl87ajiyT/lW3WiTAPObkNiAZxzCZU4D9I6M0O9uVmELjCM2n8e+F84UDD35r2wNqIGghgpTLQV1g4CQ==",
+  "success": true,
+  "projectFilePath": "D:\\KERJA\\LG Readiness\\TypescriptMVC\\TypescriptMVC\\TypescriptMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.2\\microsoft.typescript.msbuild.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
